@@ -85,9 +85,9 @@ namespace taskmanagement {
 				static_cast<System::Byte>(128)));
 			this->BtnCAMPMTG_PP->Location = System::Drawing::Point(46, 57);
 			this->BtnCAMPMTG_PP->Name = L"BtnCAMPMTG_PP";
-			this->BtnCAMPMTG_PP->Size = System::Drawing::Size(258, 47);
+			this->BtnCAMPMTG_PP->Size = System::Drawing::Size(200, 47);
 			this->BtnCAMPMTG_PP->TabIndex = 2;
-			this->BtnCAMPMTG_PP->Text = L"CAMPMTG‚ÌPowerPointV‹Kì¬";
+			this->BtnCAMPMTG_PP->Text = L"PowerPointV‹Kì¬";
 			this->BtnCAMPMTG_PP->UseVisualStyleBackColor = true;
 			this->BtnCAMPMTG_PP->Click += gcnew System::EventHandler(this, &FrmMain::BtnCAMPMTG_PP_Click);
 			// 
